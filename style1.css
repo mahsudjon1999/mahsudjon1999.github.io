@@ -1,0 +1,76 @@
+*{
+	margin: 0;
+	border: 0;
+}
+body{
+	font-family: Helvetica;
+	background-image: url(111.jpg);
+	color: #d1d4d6;
+}
+h1{
+font-family: Arial;
+	display: table;
+	margin: 0 auto;
+	color: #b2abbd;
+	font-size: 50px;
+
+}
+img{
+	margin:10px;
+}
+
+img {
+	float: left;
+}
+p {
+
+	color: #d1d4d6;
+	font-family: arial;
+	font-size: 20px;
+	margin:5px;
+	margin-left: 450px;
+}
+.rasm {
+	float: left;
+	width: 350px;
+	height: auto;
+	margin:left 100px;
+
+}
+.rasm img {
+	width: 120%;
+}
+#axxx{
+	font-size: 16px;
+}
+.aboutMe{
+	margin-bottom:30px;
+
+}
+a{
+	font-style: auto;
+}
+.container{
+	width: 80%;
+	margin: auto;
+ overflow: hidden;
+ font-size: 100px;
+}
+#main-header{
+	background-color: #333;
+	color:#333;
+    font-size: 100px;
+  
+}
+.back
+{
+	font-size: 40px;
+   text-align: center;
+
+}
+.back a
+{
+	text-decoration: none;
+	color: white;
+
+}
